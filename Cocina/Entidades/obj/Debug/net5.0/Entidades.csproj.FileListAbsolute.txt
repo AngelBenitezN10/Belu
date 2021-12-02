@@ -1,0 +1,24 @@
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\bin\Debug\net5.0\Entidades.deps.json
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\bin\Debug\net5.0\Entidades.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\bin\Debug\net5.0\Entidades.pdb
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Entidades\obj\Debug\net5.0\Entidades.pdb
+E:\Cocina\Entidades\bin\Debug\net5.0\Entidades.deps.json
+E:\Cocina\Entidades\bin\Debug\net5.0\Entidades.dll
+E:\Cocina\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+E:\Cocina\Entidades\bin\Debug\net5.0\Entidades.pdb
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.csprojAssemblyReference.cache
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.dll
+E:\Cocina\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+E:\Cocina\Entidades\obj\Debug\net5.0\Entidades.pdb

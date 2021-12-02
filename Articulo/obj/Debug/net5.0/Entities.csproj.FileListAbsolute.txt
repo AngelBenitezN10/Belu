@@ -1,0 +1,12 @@
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\bin\Debug\net5.0\Entities.deps.json
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\bin\Debug\net5.0\Entities.dll
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\bin\Debug\net5.0\ref\Entities.dll
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\bin\Debug\net5.0\Entities.pdb
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.csprojAssemblyReference.cache
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.dll
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\ref\Entities.dll
+C:\Users\buffe\source\repos\EntidadesCs\Articulo\obj\Debug\net5.0\Entities.pdb

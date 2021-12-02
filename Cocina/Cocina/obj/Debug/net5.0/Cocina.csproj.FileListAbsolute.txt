@@ -1,0 +1,32 @@
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.csproj.AssemblyReference.cache
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.GeneratedMSBuildEditorConfig.editorconfig
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.AssemblyInfoInputs.cache
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.AssemblyInfo.cs
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.csproj.CoreCompileInputs.cache
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\Cocina.exe
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\Cocina.deps.json
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\Cocina.runtimeconfig.json
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\Cocina.runtimeconfig.dev.json
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\Cocina.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\ref\Cocina.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\bin\Debug\net5.0\Cocina.pdb
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\ref\Cocina.dll
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.pdb
+G:\analista de sistemas 2\programacinoII\finalProgramacion\Cocina\Cocina\obj\Debug\net5.0\Cocina.genruntimeconfig.cache
+E:\Cocina\Cocina\bin\Debug\net5.0\Cocina.exe
+E:\Cocina\Cocina\bin\Debug\net5.0\Cocina.deps.json
+E:\Cocina\Cocina\bin\Debug\net5.0\Cocina.runtimeconfig.json
+E:\Cocina\Cocina\bin\Debug\net5.0\Cocina.runtimeconfig.dev.json
+E:\Cocina\Cocina\bin\Debug\net5.0\Cocina.dll
+E:\Cocina\Cocina\bin\Debug\net5.0\ref\Cocina.dll
+E:\Cocina\Cocina\bin\Debug\net5.0\Cocina.pdb
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.csprojAssemblyReference.cache
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.AssemblyInfoInputs.cache
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.AssemblyInfo.cs
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.csproj.CoreCompileInputs.cache
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.dll
+E:\Cocina\Cocina\obj\Debug\net5.0\ref\Cocina.dll
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.pdb
+E:\Cocina\Cocina\obj\Debug\net5.0\Cocina.genruntimeconfig.cache
